@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=urdr-gungnir&theme=dark)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=urdr-gungnir&theme=dark) -->
 <!--
 **urdr-gungnir/urdr-gungnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->

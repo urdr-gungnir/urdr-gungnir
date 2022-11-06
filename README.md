@@ -8,7 +8,7 @@
 ---
 About me 📣
 
-- 🔭 天理大二学渣
+- 🔭 天理大Ⅲ学渣
 - 🌱 （前）[狼组安全团队@Wgpsec](https://github.com/wgpsec)成员
 - 👯 CTF-[SU战队](https://team-su.github.io/)成员（Web混子）
 - 💬 考研ing，有兴趣交流的可以联系我哦，邮箱 502591592@qq.com
